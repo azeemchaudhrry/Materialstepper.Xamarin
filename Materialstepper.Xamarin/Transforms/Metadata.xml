@@ -1,0 +1,3 @@
+﻿<metadata>
+  <remove-node path="/api/package[@name='com.stepstone.stepper']/class[@name='StepperLayout']/method[@name='setOrientation']"/>
+</metadata>

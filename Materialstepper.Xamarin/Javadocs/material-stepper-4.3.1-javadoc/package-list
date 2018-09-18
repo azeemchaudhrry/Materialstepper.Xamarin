@@ -1,0 +1,8 @@
+com.stepstone.stepper
+com.stepstone.stepper.adapter
+com.stepstone.stepper.internal.feedback
+com.stepstone.stepper.internal.type
+com.stepstone.stepper.internal.util
+com.stepstone.stepper.internal.widget
+com.stepstone.stepper.internal.widget.pagetransformer
+com.stepstone.stepper.viewmodel
